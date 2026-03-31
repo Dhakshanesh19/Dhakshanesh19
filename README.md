@@ -45,9 +45,32 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhakshanesh19\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhakshanesh19e\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhakshanesh19\&layout=compact\&theme=tokyonight)
 
 ---
+## 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Dhakshanesh?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+</p>
+
+---
+
+## 🔥 LeetCode Activity
+
+* 🚀 Practicing Data Structures & Algorithms
+* 🧩 Solving problems regularly
+* 🎯 Focus: Arrays, Strings, Graphs, DP
+
+---
+
+## 🏆 LeetCode Profile
+
+<p align="center">
+  <a href="https://leetcode.com/Dhakshanesh/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+</p>
 
 ## 🔥 Projects
 
