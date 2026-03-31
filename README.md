@@ -19,8 +19,8 @@
 ### 💻 Languages
 
 * 🟡 JavaScript
-* 🔵 Python
-* 🟣 C / C++
+* 🔵 Java
+* 🟣 C 
 
 ### 🌐 Web Development
 
@@ -59,9 +59,9 @@
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/your-profile
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 🐙 GitHub: https://github.com/your-username
+* 💼 LinkedIn:[ https://linkedin.com/in/your-profile](https://www.linkedin.com/in/dhakshanesh)
+* 📧 Email: [dhachudhachu022@gmail.com](mailto:dhachudhachu022@gmail.com)
+* 🐙 GitHub: https://github.com/Dhakshanesh19
 
 ---
 
@@ -73,7 +73,7 @@
 
 ## ⭐ Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username\&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Dhakshanesh19\&color=blue)
 
 ---
 
