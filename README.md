@@ -82,7 +82,7 @@
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn:[ https://linkedin.com/in/your-profile](https://www.linkedin.com/in/dhakshanesh)
+* 💼 LinkedIn:[ https://www.linkedin.com/in/dhakshanesh](https://www.linkedin.com/in/dhakshanesh)
 * 📧 Email: [dhachudhachu022@gmail.com](mailto:dhachudhachu022@gmail.com)
 * 🐙 GitHub: https://github.com/Dhakshanesh19
 
